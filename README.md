@@ -8,7 +8,8 @@ A Simple JS and PHP Botnet, written by Daniel Mains.
 # Instructions
 1. Download Repo and upload it to your server.
 2. Copy bot.js and figure out a way to display it on
-the webpage of your choosing. *Only do this with webistes you actually own*
+the webpage of your choosing. 
+*Only do this with webistes you actually own*
 
 3. Done, you can edit cmds.php with php commands of your choice, these will be run in a hidden iframe on
 the target site. Also, update miner.html with your coinhive Site key so you can also make money off of the 
