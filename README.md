@@ -7,7 +7,7 @@ A Simple JS and PHP Botnet, written by Daniel Mains.
 
 
 # Instructions
-1. Download Repo and upload it to yourmcontrol server.
+1. Download Repo and upload it to your control server.
 2. Copy bot.js and figure out a way to display it on
 the webpage of your choosing. 
 *Only do this with webistes you actually own*
