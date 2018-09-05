@@ -23,8 +23,11 @@ Can be used to conduct a DDoS Attack, it can be also used to mine Monero and pre
 For voluntary participants have them upload node.js to their website. Then anyone running that JavaScript file will be a willing 
 participant in your botnet. If you navigate to /BotNet/CC/KeyLogger you can set up an experimental in browser keylogger.
 
+*It has been proven possible to run javascript in ads so thats an idea to think about :)*
+
 # Demo
 You can view a demo of a sample HiveMind Node here:  http://botnet.ardvark.net
 
-*It has been proven possible to run javascript in ads so thats an idea to think about :)*
 
+
+*I am not responsible for any perceived damages or harm that may come from misuse of this software*
