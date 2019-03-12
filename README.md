@@ -1,5 +1,5 @@
 # HiveMind JS-BotNet
-A Simple JS and PHP Botnet, written by Daniel Mains.
+A Simple JS and PHP Botnet, written by a very nice person.
 
 *For Educational Use Only*
 
@@ -24,9 +24,6 @@ For voluntary participants have them upload node.js to their website. Then anyon
 participant in your botnet. If you navigate to /BotNet/CC/KeyLogger you can set up an experimental in-browser keylogger.
 
 *It has been proven possible to run javascript in ads so thats an idea to think about :)*
-
-# Demo
-You can view a demo of a sample HiveMind Node here:  http://botnet.ardvark.net
 
 
 
